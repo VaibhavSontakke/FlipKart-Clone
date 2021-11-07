@@ -5,4 +5,4 @@ Flipkart clone is copy of Flipkart website and it's Static with features like ad
 #Technology used - :
 * HTML 5, CSS 3, Javascript.
 
-[Live demo](https://ksvaibhavfc.netlify.app/)
+[Live demo](https://ksvaibhavfkc.netlify.app/)
